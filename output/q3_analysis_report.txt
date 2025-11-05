@@ -1,11 +1,166 @@
-Top Categories:
-        category        sum         mean  count
-2    Electronics  531620.58  1429.087581    372
-4         Sports  204377.02   486.611952    420
-3  Home & Garden  144286.20   353.642647    408
+======================================================================
+QUESTION 3: CATEGORY SALES ANALYSIS REPORT
+======================================================================
 
-Bottom Categories:
-        category        sum        mean  count
-0          Books   26924.63   68.336624    394
-1       Clothing   75040.71  184.829335    406
-3  Home & Garden  144286.20  353.642647    408
+Generated: 2025-11-06 07:27:36
+
+======================================================================
+1. OVERALL SALES SUMMARY
+======================================================================
+Total Revenue: $982,249.14
+Total Transactions: 2,000
+Average Transaction: $491.12
+Total Items Sold: 3,704
+
+======================================================================
+2. CATEGORY PERFORMANCE SUMMARY
+======================================================================
+
+Electronics:
+  Total Sales: $531,620.58
+  Number of Transactions: 372
+  Average Sale: $1,429.09
+  Total Quantity Sold: 702
+  Min Sale: $72.41
+  Max Sale: $7,068.30
+  Std Dev: $1,387.62
+
+Sports:
+  Total Sales: $204,377.02
+  Number of Transactions: 420
+  Average Sale: $486.61
+  Total Quantity Sold: 743
+  Min Sale: $60.58
+  Max Sale: $2,010.85
+  Std Dev: $361.63
+
+Home & Garden:
+  Total Sales: $144,286.20
+  Number of Transactions: 408
+  Average Sale: $353.64
+  Total Quantity Sold: 774
+  Min Sale: $42.70
+  Max Sale: $1,485.85
+  Std Dev: $276.37
+
+Clothing:
+  Total Sales: $75,040.71
+  Number of Transactions: 406
+  Average Sale: $184.83
+  Total Quantity Sold: 752
+  Min Sale: $42.03
+  Max Sale: $726.35
+  Std Dev: $136.90
+
+Books:
+  Total Sales: $26,924.63
+  Number of Transactions: 394
+  Average Sale: $68.34
+  Total Quantity Sold: 733
+  Min Sale: $21.74
+  Max Sale: $223.40
+  Std Dev: $43.42
+
+======================================================================
+3. TOP PERFORMING CATEGORY
+======================================================================
+Category: Electronics
+Total Sales: $531,620.58
+Market Share: 54.12%
+Transactions: 372
+
+======================================================================
+4. BOTTOM PERFORMING CATEGORY
+======================================================================
+Category: Books
+Total Sales: $26,924.63
+Market Share: 2.74%
+Transactions: 394
+
+======================================================================
+5. MONTHLY SALES BREAKDOWN
+======================================================================
+
+April:
+  Total Sales: $81,736.53
+  Transactions: 180
+  Average Transaction: $454.09
+
+August:
+  Total Sales: $84,441.10
+  Transactions: 186
+  Average Transaction: $453.98
+
+February:
+  Total Sales: $95,865.79
+  Transactions: 168
+  Average Transaction: $570.63
+
+January:
+  Total Sales: $86,020.14
+  Transactions: 186
+  Average Transaction: $462.47
+
+July:
+  Total Sales: $100,965.46
+  Transactions: 186
+  Average Transaction: $542.83
+
+June:
+  Total Sales: $103,433.17
+  Transactions: 180
+  Average Transaction: $574.63
+
+March:
+  Total Sales: $95,598.24
+  Transactions: 186
+  Average Transaction: $513.97
+
+May:
+  Total Sales: $97,306.94
+  Transactions: 186
+  Average Transaction: $523.16
+
+November:
+  Total Sales: $70,477.79
+  Transactions: 176
+  Average Transaction: $400.44
+
+October:
+  Total Sales: $78,501.59
+  Transactions: 186
+  Average Transaction: $422.05
+
+September:
+  Total Sales: $87,902.39
+  Transactions: 180
+  Average Transaction: $488.35
+
+======================================================================
+6. CATEGORY RANKINGS
+======================================================================
+
+By Total Sales:
+  1. Electronics: $531,620.58
+  2. Sports: $204,377.02
+  3. Home & Garden: $144,286.20
+  4. Clothing: $75,040.71
+  5. Books: $26,924.63
+
+By Average Transaction Size:
+  1. Electronics: $1,429.09
+  2. Sports: $486.61
+  3. Home & Garden: $353.64
+  4. Clothing: $184.83
+  5. Books: $68.34
+
+By Number of Transactions:
+  1. Sports: 420 transactions
+  2. Home & Garden: 408 transactions
+  3. Clothing: 406 transactions
+  4. Books: 394 transactions
+  5. Electronics: 372 transactions
+
+======================================================================
+END OF REPORT
+======================================================================
