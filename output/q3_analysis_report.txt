@@ -1,13 +1,11 @@
 Top Categories:
-                     sum         mean    min      max  count
-category                                                    
-Electronics    531620.58  1429.087581  72.41  7068.30    372
-Sports         204377.02   486.611952  60.58  2010.85    420
-Home & Garden  144286.20   353.642647  42.70  1485.85    408
+        category        sum         mean  count
+2    Electronics  531620.58  1429.087581    372
+4         Sports  204377.02   486.611952    420
+3  Home & Garden  144286.20   353.642647    408
 
 Bottom Categories:
-                     sum        mean    min      max  count
-category                                                   
-Books           26924.63   68.336624  21.74   223.40    394
-Clothing        75040.71  184.829335  42.03   726.35    406
-Home & Garden  144286.20  353.642647  42.70  1485.85    408
+        category        sum        mean  count
+0          Books   26924.63   68.336624    394
+1       Clothing   75040.71  184.829335    406
+3  Home & Garden  144286.20  353.642647    408
