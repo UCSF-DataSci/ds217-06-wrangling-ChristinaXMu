@@ -2,7 +2,7 @@
 QUESTION 3: CATEGORY SALES ANALYSIS REPORT
 ======================================================================
 
-Generated: 2025-11-08 07:46:26
+Generated: 2025-11-08 08:02:25
 
 ======================================================================
 1. OVERALL SALES SUMMARY
@@ -21,7 +21,7 @@ Number of Months: 11
 Months Included: January, February, March, April, May, June, July, August, September, October, November
 
 ======================================================================
-2. SALES BY CATEGORY
+Sales by Category
 ======================================================================
 
 Category Performance Summary:
@@ -147,7 +147,7 @@ September:
   Average Transaction: $488.35
 
 ======================================================================
-SALES BY CATEGORY
+Sales by Category
 ======================================================================
 
 By Total Sales:
